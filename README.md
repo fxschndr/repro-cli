@@ -16,7 +16,7 @@ The tool can be started using the following command:
 
  `$ python reprocli.py path/to/paper.pdf`
  
- ## Output
+ ## Outputs
 
 - `results.csv` — outcome and extracted metadata per paper
 - `execution.csv` — detailed execution log, plans, errors, retries
